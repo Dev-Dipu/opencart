@@ -1,0 +1,2305 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Mobile Phones",
+          "products": [
+            {
+              "id": 101,
+              "imgLink": "https://m.media-amazon.com/images/I/3150P3KQFlL._SX300_SY300_QL70_FMwebp_.jpg",
+              "name": "iPhone 13",
+              "category": "Electronics",
+              "rating": 4.8,
+              "price": 799.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["5% off on AppleCare+", "Free AirPods with purchase"],
+              "productSpecs": {
+                "brand": "Apple",
+                "model": "iPhone 13",
+                "storage": "128GB",
+                "color": "Blue"
+              }
+            },
+            {
+              "id": 102,
+              "imgLink": "Samsung Galaxy S21 phantom grey",
+              "name": "Samsung Galaxy S21",
+              "category": "Electronics",
+              "rating": 4.6,
+              "price": 749.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["10% off with Samsung Financing"],
+              "productSpecs": {
+                "brand": "Samsung",
+                "model": "Galaxy S21",
+                "storage": "256GB",
+                "color": "Phantom Gray"
+              }
+            },
+            {
+              "id": 103,
+              "imgLink": "https://example.com/images/pixel-6.jpg",
+              "name": "Google Pixel 6",
+              "category": "Electronics",
+              "rating": 4.4,
+              "price": 599.99,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["Free Google Nest Hub"],
+              "productSpecs": {
+                "brand": "Google",
+                "model": "Pixel 6",
+                "storage": "128GB",
+                "color": "Stormy Black"
+              }
+            },
+            {
+              "id": 104,
+              "imgLink": "https://example.com/images/oneplus-9.jpg",
+              "name": "OnePlus 9",
+              "category": "Electronics",
+              "rating": 4.5,
+              "price": 729.99,
+              "freeDelivery": false,
+              "warranty": "1 Year",
+              "offers": ["15% off for students"],
+              "productSpecs": {
+                "brand": "OnePlus",
+                "model": "9",
+                "storage": "128GB",
+                "color": "Astral Black"
+              }
+            },
+            {
+              "id": 105,
+              "imgLink": "https://example.com/images/xiaomi-mi-11.jpg",
+              "name": "Xiaomi Mi 11",
+              "category": "Electronics",
+              "rating": 4.3,
+              "price": 699.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Free screen replacement for 6 months"],
+              "productSpecs": {
+                "brand": "Xiaomi",
+                "model": "Mi 11",
+                "storage": "256GB",
+                "color": "Horizon Blue"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "products": [
+            {
+              "id": 201,
+              "imgLink": "https://example.com/images/macbook-pro.jpg",
+              "name": "MacBook Pro 14",
+              "category": "Electronics",
+              "rating": 4.9,
+              "price": 1999.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["10% off on AppleCare+"],
+              "productSpecs": {
+                "brand": "Apple",
+                "model": "MacBook Pro 14",
+                "storage": "512GB",
+                "color": "Space Gray"
+              }
+            },
+            {
+              "id": 202,
+              "imgLink": "https://example.com/images/dell-xps-13.jpg",
+              "name": "Dell XPS 13",
+              "category": "Electronics",
+              "rating": 4.7,
+              "price": 1299.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Free carrying case"],
+              "productSpecs": {
+                "brand": "Dell",
+                "model": "XPS 13",
+                "storage": "1TB",
+                "color": "Silver"
+              }
+            },
+            {
+              "id": 203,
+              "imgLink": "https://example.com/images/hp-spectre-x360.jpg",
+              "name": "HP Spectre x360",
+              "category": "Electronics",
+              "rating": 4.5,
+              "price": 1499.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["15% off on accessories"],
+              "productSpecs": {
+                "brand": "HP",
+                "model": "Spectre x360",
+                "storage": "512GB",
+                "color": "Nightfall Black"
+              }
+            },
+            {
+              "id": 204,
+              "imgLink": "https://example.com/images/lenovo-thinkpad-x1.jpg",
+              "name": "Lenovo ThinkPad X1 Carbon",
+              "category": "Electronics",
+              "rating": 4.6,
+              "price": 1399.99,
+              "freeDelivery": false,
+              "warranty": "1 Year",
+              "offers": ["Free docking station"],
+              "productSpecs": {
+                "brand": "Lenovo",
+                "model": "ThinkPad X1 Carbon",
+                "storage": "1TB",
+                "color": "Black"
+              }
+            },
+            {
+              "id": 205,
+              "imgLink": "https://example.com/images/asus-rog-zephyrus.jpg",
+              "name": "Asus ROG Zephyrus G14",
+              "category": "Electronics",
+              "rating": 4.8,
+              "price": 1599.99,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["Free gaming mouse"],
+              "productSpecs": {
+                "brand": "Asus",
+                "model": "ROG Zephyrus G14",
+                "storage": "1TB",
+                "color": "Moonlight White"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "subcategories": [
+        {
+          "name": "Men’s Clothing",
+          "products": [
+            {
+              "id": 301,
+              "imgLink": "https://example.com/images/nike-tshirt.jpg",
+              "name": "Nike Men's T-Shirt",
+              "category": "Fashion",
+              "rating": 4.4,
+              "price": 29.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Buy 2 Get 1 Free"],
+              "productSpecs": {
+                "brand": "Nike",
+                "size": "L",
+                "color": "Black",
+                "material": "Cotton"
+              }
+            },
+            {
+              "id": 302,
+              "imgLink": "https://example.com/images/levis-jeans.jpg",
+              "name": "Levi's Men's 501 Original Jeans",
+              "category": "Fashion",
+              "rating": 4.6,
+              "price": 59.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["10% off on first purchase"],
+              "productSpecs": {
+                "brand": "Levi's",
+                "size": "32W 32L",
+                "color": "Blue",
+                "material": "Denim"
+              }
+            },
+            {
+              "id": 303,
+              "imgLink": "https://example.com/images/adidas-hoodie.jpg",
+              "name": "Adidas Men's Hoodie",
+              "category": "Fashion",
+              "rating": 4.5,
+              "price": 49.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["5% cashback"],
+              "productSpecs": {
+                "brand": "Adidas",
+                "size": "M",
+                "color": "Grey",
+                "material": "Polyester"
+              }
+            },
+            {
+              "id": 304,
+              "imgLink": "https://example.com/images/rayban-sunglasses.jpg",
+              "name": "Ray-Ban Aviator Sunglasses",
+              "category": "Fashion",
+              "rating": 4.7,
+              "price": 159.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Free cleaning kit"],
+              "productSpecs": {
+                "brand": "Ray-Ban",
+                "frameColor": "Gold",
+                "lensColor": "Green",
+                "material": "Metal"
+              }
+            },
+            {
+              "id": 305,
+              "imgLink": "https://example.com/images/tommy-hilfiger-shirt.jpg",
+              "name": "Tommy Hilfiger Men's Dress Shirt",
+              "category": "Fashion",
+              "rating": 4.3,
+              "price": 69.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["15% off on next purchase"],
+              "productSpecs": {
+                "brand": "Tommy Hilfiger",
+                "size": "L",
+                "color": "White",
+                "material": "Cotton"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Women’s Clothing",
+          "products": [
+            {
+              "id": 401,
+              "imgLink": "https://example.com/images/zara-dress.jpg",
+              "name": "Zara Women's Floral Dress",
+              "category": "Fashion",
+              "rating": 4.5,
+              "price": 79.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["10% off on first purchase"],
+              "productSpecs": {
+                "brand": "Zara",
+                "size": "M",
+                "color": "Red",
+                "material": "Polyester"
+              }
+            },
+            {
+              "id": 402,
+              "imgLink": "https://example.com/images/hm-blouse.jpg",
+              "name": "H&M Women's Blouse",
+              "category": "Fashion",
+              "rating": 4.3,
+              "price": 39.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["Free scarf with purchase"],
+              "productSpecs": {
+                "brand": "H&M",
+                "size": "S",
+                "color": "White",
+                "material": "Cotton"
+              }
+            },
+            {
+              "id": 403,
+              "imgLink": "https://example.com/images/uniqlo-jeans.jpg",
+              "name": "Uniqlo Women's Skinny Jeans",
+              "category": "Fashion",
+              "rating": 4.4,
+              "price": 49.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["5% cashback"],
+              "productSpecs": {
+                "brand": "Uniqlo",
+                "size": "28",
+                "color": "Blue",
+                "material": "Denim"
+              }
+            },
+            {
+              "id": 404,
+              "imgLink": "https://example.com/images/gucci-bag.jpg",
+              "name": "Gucci GG Marmont Small Matelassé Bag",
+              "category": "Fashion",
+              "rating": 4.8,
+              "price": 1999.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Free wallet with purchase"],
+              "productSpecs": {
+                "brand": "Gucci",
+                "color": "Black",
+                "material": "Leather"
+              }
+            },
+            {
+              "id": 405,
+              "imgLink": "https://example.com/images/nike-leggings.jpg",
+              "name": "Nike Women's Leggings",
+              "category": "Fashion",
+              "rating": 4.6,
+              "price": 39.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["15% off on next purchase"],
+              "productSpecs": {
+                "brand": "Nike",
+                "size": "M",
+                "color": "Black",
+                "material": "Spandex"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Home & Kitchen",
+      "subcategories": [
+        {
+          "name": "Furniture",
+          "products": [
+            {
+              "id": 501,
+              "imgLink": "https://example.com/images/ikea-sofa.jpg",
+              "name": "IKEA Ektorp Sofa",
+              "category": "Home & Kitchen",
+              "rating": 4.5,
+              "price": 499.99,
+              "freeDelivery": false,
+              "warranty": "10 Years",
+              "offers": ["Free assembly"],
+              "productSpecs": {
+                "brand": "IKEA",
+                "color": "Gray",
+                "material": "Fabric",
+                "dimensions": "85 x 34 x 38 inches"
+              }
+            },
+            {
+              "id": 502,
+              "imgLink": "https://example.com/images/ashley-recliner.jpg",
+              "name": "Ashley Furniture Recliner",
+              "category": "Home & Kitchen",
+              "rating": 4.7,
+              "price": 399.99,
+              "freeDelivery": true,
+              "warranty": "5 Years",
+              "offers": ["Free delivery and setup"],
+              "productSpecs": {
+                "brand": "Ashley Furniture",
+                "color": "Brown",
+                "material": "Leather",
+                "dimensions": "40 x 35 x 42 inches"
+              }
+            },
+            {
+              "id": 503,
+              "imgLink": "https://example.com/images/west-elm-bed.jpg",
+              "name": "West Elm Mid-Century Bed",
+              "category": "Home & Kitchen",
+              "rating": 4.6,
+              "price": 799.99,
+              "freeDelivery": false,
+              "warranty": "10 Years",
+              "offers": ["10% off on matching nightstands"],
+              "productSpecs": {
+                "brand": "West Elm",
+                "color": "Walnut",
+                "material": "Wood",
+                "dimensions": "86 x 64 x 47 inches"
+              }
+            },
+            {
+              "id": 504,
+              "imgLink": "https://example.com/images/pottery-barn-dining-table.jpg",
+              "name": "Pottery Barn Dining Table",
+              "category": "Home & Kitchen",
+              "rating": 4.7,
+              "price": 999.99,
+              "freeDelivery": true,
+              "warranty": "5 Years",
+              "offers": ["Free delivery and setup"],
+              "productSpecs": {
+                "brand": "Pottery Barn",
+                "color": "Espresso",
+                "material": "Wood",
+                "dimensions": "72 x 40 x 30 inches"
+              }
+            },
+            {
+              "id": 505,
+              "imgLink": "https://example.com/images/cb2-coffee-table.jpg",
+              "name": "CB2 Modern Coffee Table",
+              "category": "Home & Kitchen",
+              "rating": 4.4,
+              "price": 299.99,
+              "freeDelivery": false,
+              "warranty": "2 Years",
+              "offers": ["10% off on purchase over $500"],
+              "productSpecs": {
+                "brand": "CB2",
+                "color": "Black",
+                "material": "Glass and Metal",
+                "dimensions": "48 x 24 x 18 inches"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kitchen Appliances",
+          "products": [
+            {
+              "id": 601,
+              "imgLink": "https://example.com/images/kitchenaid-mixer.jpg",
+              "name": "KitchenAid Stand Mixer",
+              "category": "Home & Kitchen",
+              "rating": 4.9,
+              "price": 379.99,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["Free additional mixing bowl"],
+              "productSpecs": {
+                "brand": "KitchenAid",
+                "color": "Red",
+                "material": "Metal",
+                "power": "325 Watts"
+              }
+            },
+            {
+              "id": 602,
+              "imgLink": "https://example.com/images/instant-pot.jpg",
+              "name": "Instant Pot Duo 7-in-1",
+              "category": "Home & Kitchen",
+              "rating": 4.8,
+              "price": 89.99,
+              "freeDelivery": false,
+              "warranty": "1 Year",
+              "offers": ["10% off on accessories"],
+              "productSpecs": {
+                "brand": "Instant Pot",
+                "color": "Stainless Steel",
+                "material": "Stainless Steel",
+                "capacity": "6 Quarts"
+              }
+            },
+            {
+              "id": 603,
+              "imgLink": "https://example.com/images/ninja-blender.jpg",
+              "name": "Ninja Professional Blender",
+              "category": "Home & Kitchen",
+              "rating": 4.7,
+              "price": 99.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Free recipe book"],
+              "productSpecs": {
+                "brand": "Ninja",
+                "color": "Black",
+                "material": "Plastic",
+                "power": "1100 Watts"
+              }
+            },
+            {
+              "id": 604,
+              "imgLink": "https://example.com/images/breville-coffee-maker.jpg",
+              "name": "Breville Barista Express Espresso Machine",
+              "category": "Home & Kitchen",
+              "rating": 4.8,
+              "price": 699.99,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["Free coffee beans"],
+              "productSpecs": {
+                "brand": "Breville",
+                "color": "Stainless Steel",
+                "material": "Stainless Steel",
+                "power": "1600 Watts"
+              }
+            },
+            {
+              "id": 605,
+              "imgLink": "https://example.com/images/toaster.jpg",
+              "name": "Cuisinart 4-Slice Toaster",
+              "category": "Home & Kitchen",
+              "rating": 4.4,
+              "price": 49.99,
+              "freeDelivery": false,
+              "warranty": "3 Years",
+              "offers": ["10% off on next purchase"],
+              "productSpecs": {
+                "brand": "Cuisinart",
+                "color": "Silver",
+                "material": "Stainless Steel",
+                "power": "1800 Watts"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Beauty & Personal Care",
+      "subcategories": [
+        {
+          "name": "Skincare",
+          "products": [
+            {
+              "id": 701,
+              "imgLink": "https://example.com/images/cerave-cleanser.jpg",
+              "name": "CeraVe Hydrating Facial Cleanser",
+              "category": "Beauty & Personal Care",
+              "rating": 4.7,
+              "price": 14.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Buy 1 Get 1 50% off"],
+              "productSpecs": {
+                "brand": "CeraVe",
+                "size": "16 oz",
+                "type": "Cleanser",
+                "skinType": "Dry"
+              }
+            },
+            {
+              "id": 702,
+              "imgLink": "https://example.com/images/the-ordinary-serum.jpg",
+              "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+              "category": "Beauty & Personal Care",
+              "rating": 4.5,
+              "price": 5.9,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["Free shipping on orders over $25"],
+              "productSpecs": {
+                "brand": "The Ordinary",
+                "size": "1 oz",
+                "type": "Serum",
+                "skinType": "All"
+              }
+            },
+            {
+              "id": 703,
+              "imgLink": "https://example.com/images/neutrogena-sunscreen.jpg",
+              "name": "Neutrogena Ultra Sheer Dry-Touch Sunscreen",
+              "category": "Beauty & Personal Care",
+              "rating": 4.6,
+              "price": 8.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["10% off on next purchase"],
+              "productSpecs": {
+                "brand": "Neutrogena",
+                "size": "3 oz",
+                "type": "Sunscreen",
+                "SPF": 55
+              }
+            },
+            {
+              "id": 704,
+              "imgLink": "https://example.com/images/olehenriksen-cream.jpg",
+              "name": "Ole Henriksen C-Rush Brightening Gel Crème",
+              "category": "Beauty & Personal Care",
+              "rating": 4.8,
+              "price": 46.0,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free sample with purchase"],
+              "productSpecs": {
+                "brand": "Ole Henriksen",
+                "size": "1.7 oz",
+                "type": "Moisturizer",
+                "skinType": "All"
+              }
+            },
+            {
+              "id": 705,
+              "imgLink": "https://example.com/images/drunk-elephant-serum.jpg",
+              "name": "Drunk Elephant T.L.C. Framboos Glycolic Night Serum",
+              "category": "Beauty & Personal Care",
+              "rating": 4.7,
+              "price": 90.0,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free mini moisturizer with purchase"],
+              "productSpecs": {
+                "brand": "Drunk Elephant",
+                "size": "1 oz",
+                "type": "Serum",
+                "skinType": "All"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Hair Care",
+          "products": [
+            {
+              "id": 801,
+              "imgLink": "https://example.com/images/moroccanoil-treatment.jpg",
+              "name": "Moroccanoil Treatment",
+              "category": "Beauty & Personal Care",
+              "rating": 4.8,
+              "price": 44.0,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["10% off on next purchase"],
+              "productSpecs": {
+                "brand": "Moroccanoil",
+                "size": "3.4 oz",
+                "type": "Hair Oil",
+                "hairType": "All"
+              }
+            },
+            {
+              "id": 802,
+              "imgLink": "https://example.com/images/ogx-shampoo.jpg",
+              "name": "OGX Renewing + Argan Oil of Morocco Shampoo",
+              "category": "Beauty & Personal Care",
+              "rating": 4.5,
+              "price": 6.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["Buy 2 Get 1 Free"],
+              "productSpecs": {
+                "brand": "OGX",
+                "size": "13 oz",
+                "type": "Shampoo",
+                "hairType": "All"
+              }
+            },
+            {
+              "id": 803,
+              "imgLink": "https://example.com/images/briogeo-mask.jpg",
+              "name": "Briogeo Don’t Despair, Repair! Deep Conditioning Mask",
+              "category": "Beauty & Personal Care",
+              "rating": 4.6,
+              "price": 36.0,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free travel size shampoo"],
+              "productSpecs": {
+                "brand": "Briogeo",
+                "size": "8 oz",
+                "type": "Hair Mask",
+                "hairType": "Dry"
+              }
+            },
+            {
+              "id": 804,
+              "imgLink": "https://example.com/images/living-proof-dry-shampoo.jpg",
+              "name": "Living Proof Perfect Hair Day Dry Shampoo",
+              "category": "Beauty & Personal Care",
+              "rating": 4.7,
+              "price": 24.0,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["15% off on next purchase"],
+              "productSpecs": {
+                "brand": "Living Proof",
+                "size": "4 oz",
+                "type": "Dry Shampoo",
+                "hairType": "All"
+              }
+            },
+            {
+              "id": 805,
+              "imgLink": "https://example.com/images/kerastase-serum.jpg",
+              "name": "Kérastase Resistance Serum Therapiste",
+              "category": "Beauty & Personal Care",
+              "rating": 4.7,
+              "price": 45.0,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free hair mask with purchase"],
+              "productSpecs": {
+                "brand": "Kérastase",
+                "size": "1.7 oz",
+                "type": "Hair Serum",
+                "hairType": "Damaged"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sports & Outdoors",
+      "subcategories": [
+        {
+          "name": "Fitness Equipment",
+          "products": [
+            {
+              "id": 901,
+              "imgLink": "https://example.com/images/yoga-mat.jpg",
+              "name": "Gaiam Yoga Mat",
+              "category": "Sports & Outdoors",
+              "rating": 4.6,
+              "price": 29.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Free yoga strap"],
+              "productSpecs": {
+                "brand": "Gaiam",
+                "color": "Purple",
+                "material": "PVC",
+                "dimensions": "68 x 24 inches"
+              }
+            },
+            {
+              "id": 902,
+              "imgLink": "https://example.com/images/dumbbells.jpg",
+              "name": "Bowflex SelectTech Dumbbells",
+              "category": "Sports & Outdoors",
+              "rating": 4.8,
+              "price": 299.99,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["10% off on workout bench"],
+              "productSpecs": {
+                "brand": "Bowflex",
+                "weightRange": "5-52.5 lbs",
+                "material": "Metal",
+                "type": "Adjustable Dumbbells"
+              }
+            },
+            {
+              "id": 903,
+              "imgLink": "https://example.com/images/treadmill.jpg",
+              "name": "NordicTrack T Series Treadmill",
+              "category": "Sports & Outdoors",
+              "rating": 4.7,
+              "price": 799.99,
+              "freeDelivery": false,
+              "warranty": "10 Years",
+              "offers": ["Free 1-year iFit membership"],
+              "productSpecs": {
+                "brand": "NordicTrack",
+                "speedRange": "0-10 mph",
+                "incline": "0-10%",
+                "dimensions": "73 x 36 x 54 inches"
+              }
+            },
+            {
+              "id": 904,
+              "imgLink": "https://example.com/images/exercise-bike.jpg",
+              "name": "Peloton Bike+",
+              "category": "Sports & Outdoors",
+              "rating": 4.9,
+              "price": 2495.0,
+              "freeDelivery": true,
+              "warranty": "12 Months",
+              "offers": ["Free delivery and setup"],
+              "productSpecs": {
+                "brand": "Peloton",
+                "display": "23.8-inch touchscreen",
+                "weightCapacity": "297 lbs",
+                "dimensions": "59 x 22 x 59 inches"
+              }
+            },
+            {
+              "id": 905,
+              "imgLink": "https://example.com/images/kettlebell.jpg",
+              "name": "Rogue Fitness Kettlebell",
+              "category": "Sports & Outdoors",
+              "rating": 4.7,
+              "price": 79.99,
+              "freeDelivery": false,
+              "warranty": "Lifetime",
+              "offers": ["Buy 2 Get 1 Free"],
+              "productSpecs": {
+                "brand": "Rogue Fitness",
+                "weight": "35 lbs",
+                "material": "Cast Iron",
+                "coating": "Powder Coated"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Outdoor Gear",
+          "products": [
+            {
+              "id": 1001,
+              "imgLink": "https://example.com/images/tent.jpg",
+              "name": "REI Co-op Half Dome 2 Plus Tent",
+              "category": "Sports & Outdoors",
+              "rating": 4.8,
+              "price": 229.0,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Free ground tarp"],
+              "productSpecs": {
+                "brand": "REI Co-op",
+                "capacity": "2 People",
+                "material": "Nylon",
+                "weight": "5 lbs 5 oz"
+              }
+            },
+            {
+              "id": 1002,
+              "imgLink": "https://example.com/images/sleeping-bag.jpg",
+              "name": "The North Face Sleeping Bag",
+              "category": "Sports & Outdoors",
+              "rating": 4.7,
+              "price": 189.0,
+              "freeDelivery": false,
+              "warranty": "Lifetime",
+              "offers": ["10% off on next purchase"],
+              "productSpecs": {
+                "brand": "The North Face",
+                "temperatureRating": "20°F",
+                "material": "Synthetic",
+                "weight": "2 lbs 14 oz"
+              }
+            },
+            {
+              "id": 1003,
+              "imgLink": "https://example.com/images/hiking-backpack.jpg",
+              "name": "Osprey Atmos AG 65 Backpack",
+              "category": "Sports & Outdoors",
+              "rating": 4.8,
+              "price": 270.0,
+              "freeDelivery": true,
+              "warranty": "Lifetime",
+              "offers": ["Free rain cover"],
+              "productSpecs": {
+                "brand": "Osprey",
+                "capacity": "65L",
+                "material": "Nylon",
+                "weight": "4 lbs 6 oz"
+              }
+            },
+            {
+              "id": 1004,
+              "imgLink": "https://example.com/images/camping-stove.jpg",
+              "name": "Coleman Gas Camping Stove",
+              "category": "Sports & Outdoors",
+              "rating": 4.6,
+              "price": 49.99,
+              "freeDelivery": false,
+              "warranty": "3 Years",
+              "offers": ["Buy 1 Get 1 50% off"],
+              "productSpecs": {
+                "brand": "Coleman",
+                "fuelType": "Propane",
+                "burners": 2,
+                "weight": "10 lbs"
+              }
+            },
+            {
+              "id": 1005,
+              "imgLink": "https://example.com/images/hiking-boots.jpg",
+              "name": "Salomon X Ultra 3 Hiking Boots",
+              "category": "Sports & Outdoors",
+              "rating": 4.7,
+              "price": 120.0,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["Free pair of hiking socks"],
+              "productSpecs": {
+                "brand": "Salomon",
+                "size": "Multiple Sizes",
+                "material": "Synthetic",
+                "waterproof": "Yes"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Books",
+      "subcategories": [
+        {
+          "name": "Fiction",
+          "products": [
+            {
+              "id": 1101,
+              "imgLink": "https://example.com/images/the-great-gatsby.jpg",
+              "name": "The Great Gatsby",
+              "category": "Books",
+              "rating": 4.4,
+              "price": 10.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Buy 2 Get 1 Free"],
+              "productSpecs": {
+                "author": "F. Scott Fitzgerald",
+                "publisher": "Scribner",
+                "pages": 180,
+                "language": "English"
+              }
+            },
+            {
+              "id": 1102,
+              "imgLink": "https://example.com/images/1984.jpg",
+              "name": "1984",
+              "category": "Books",
+              "rating": 4.7,
+              "price": 9.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free bookmark with purchase"],
+              "productSpecs": {
+                "author": "George Orwell",
+                "publisher": "Houghton Mifflin Harcourt",
+                "pages": 328,
+                "language": "English"
+              }
+            },
+            {
+              "id": 1103,
+              "imgLink": "https://example.com/images/to-kill-a-mockingbird.jpg",
+              "name": "To Kill a Mockingbird",
+              "category": "Books",
+              "rating": 4.8,
+              "price": 7.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["10% off on next purchase"],
+              "productSpecs": {
+                "author": "Harper Lee",
+                "publisher": "J.B. Lippincott & Co.",
+                "pages": 281,
+                "language": "English"
+              }
+            },
+            {
+              "id": 1104,
+              "imgLink": "https://example.com/images/the-catcher-in-the-rye.jpg",
+              "name": "The Catcher in the Rye",
+              "category": "Books",
+              "rating": 4.5,
+              "price": 8.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free eBook version"],
+              "productSpecs": {
+                "author": "J.D. Salinger",
+                "publisher": "Little, Brown and Company",
+                "pages": 214,
+                "language": "English"
+              }
+            },
+            {
+              "id": 1105,
+              "imgLink": "https://example.com/images/the-hobbit.jpg",
+              "name": "The Hobbit",
+              "category": "Books",
+              "rating": 4.9,
+              "price": 14.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free map of Middle-earth"],
+              "productSpecs": {
+                "author": "J.R.R. Tolkien",
+                "publisher": "George Allen & Unwin",
+                "pages": 310,
+                "language": "English"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Non-Fiction",
+          "products": [
+            {
+              "id": 1201,
+              "imgLink": "https://example.com/images/sapiens.jpg",
+              "name": "Sapiens: A Brief History of Humankind",
+              "category": "Books",
+              "rating": 4.7,
+              "price": 16.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free eBook version"],
+              "productSpecs": {
+                "author": "Yuval Noah Harari",
+                "publisher": "Harper",
+                "pages": 464,
+                "language": "English"
+              }
+            },
+            {
+              "id": 1202,
+              "imgLink": "https://example.com/images/educated.jpg",
+              "name": "Educated: A Memoir",
+              "category": "Books",
+              "rating": 4.8,
+              "price": 12.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["10% off on next purchase"],
+              "productSpecs": {
+                "author": "Tara Westover",
+                "publisher": "Random House",
+                "pages": 334,
+                "language": "English"
+              }
+            },
+            {
+              "id": 1203,
+              "imgLink": "https://example.com/images/becoming.jpg",
+              "name": "Becoming",
+              "category": "Books",
+              "rating": 4.9,
+              "price": 19.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free audiobook version"],
+              "productSpecs": {
+                "author": "Michelle Obama",
+                "publisher": "Crown Publishing Group",
+                "pages": 448,
+                "language": "English"
+              }
+            },
+            {
+              "id": 1204,
+              "imgLink": "https://example.com/images/atomic-habits.jpg",
+              "name": "Atomic Habits",
+              "category": "Books",
+              "rating": 4.8,
+              "price": 11.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free habit tracking journal"],
+              "productSpecs": {
+                "author": "James Clear",
+                "publisher": "Avery",
+                "pages": 320,
+                "language": "English"
+              }
+            },
+            {
+              "id": 1205,
+              "imgLink": "https://example.com/images/the-body-keeps-the-score.jpg",
+              "name": "The Body Keeps the Score",
+              "category": "Books",
+              "rating": 4.7,
+              "price": 15.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["Free workbook"],
+              "productSpecs": {
+                "author": "Bessel van der Kolk",
+                "publisher": "Penguin Books",
+                "pages": 464,
+                "language": "English"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Toys & Games",
+      "subcategories": [
+        {
+          "name": "Action Figures",
+          "products": [
+            {
+              "id": 1301,
+              "imgLink": "https://example.com/images/action-figure1.jpg",
+              "name": "Superhero Action Figure",
+              "category": "Toys & Games",
+              "subcategory": "Action Figures",
+              "rating": 4.8,
+              "price": 19.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Poseable joints", "Detailed design"],
+              "productSpecs": {
+                "material": "Plastic",
+                "height": "12 inches"
+              }
+            },
+            {
+              "id": 1302,
+              "imgLink": "https://example.com/images/action-figure2.jpg",
+              "name": "Sci-Fi Robot Figure",
+              "category": "Toys & Games",
+              "subcategory": "Action Figures",
+              "rating": 4.5,
+              "price": 24.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Light-up features", "Sound effects"],
+              "productSpecs": {
+                "material": "Plastic",
+                "height": "10 inches"
+              }
+            },
+            {
+              "id": 1303,
+              "imgLink": "https://example.com/images/action-figure3.jpg",
+              "name": "Fantasy Knight Figure",
+              "category": "Toys & Games",
+              "subcategory": "Action Figures",
+              "rating": 4.7,
+              "price": 16.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Removable armor", "Weapon accessories"],
+              "productSpecs": {
+                "material": "Plastic",
+                "height": "8 inches"
+              }
+            },
+            {
+              "id": 1304,
+              "imgLink": "https://example.com/images/action-figure4.jpg",
+              "name": "Dinosaur Action Figure Set",
+              "category": "Toys & Games",
+              "subcategory": "Action Figures",
+              "rating": 4.6,
+              "price": 29.99,
+              "freeDelivery": false,
+              "warranty": "1 Year",
+              "offers": ["Realistic textures", "Multiple species"],
+              "productSpecs": {
+                "material": "Plastic",
+                "figuresIncluded": 4
+              }
+            },
+            {
+              "id": 1305,
+              "imgLink": "https://example.com/images/action-figure5.jpg",
+              "name": "Cartoon Character Action Figure",
+              "category": "Toys & Games",
+              "subcategory": "Action Figures",
+              "rating": 4.9,
+              "price": 21.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Authentic design", "Collectible"],
+              "productSpecs": {
+                "material": "Plastic",
+                "height": "6 inches"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Board Games",
+          "products": [
+            {
+              "id": 1401,
+              "imgLink": "https://example.com/images/catan.jpg",
+              "name": "Catan",
+              "category": "Toys & Games",
+              "rating": 4.8,
+              "price": 49.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Expansion pack available"],
+              "productSpecs": {
+                "publisher": "Catan Studio",
+                "players": "3-4",
+                "playingTime": "60-120 mins",
+                "ageRange": "10+"
+              }
+            },
+            {
+              "id": 1402,
+              "imgLink": "https://example.com/images/ticket-to-ride.jpg",
+              "name": "Ticket to Ride",
+              "category": "Toys & Games",
+              "rating": 4.7,
+              "price": 44.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Expansion packs available"],
+              "productSpecs": {
+                "publisher": "Days of Wonder",
+                "players": "2-5",
+                "playingTime": "30-60 mins",
+                "ageRange": "8+"
+              }
+            },
+            {
+              "id": 1403,
+              "imgLink": "https://example.com/images/pandemic.jpg",
+              "name": "Pandemic",
+              "category": "Toys & Games",
+              "rating": 4.9,
+              "price": 39.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["Expansion packs available"],
+              "productSpecs": {
+                "publisher": "Z-Man Games",
+                "players": "2-4",
+                "playingTime": "45 mins",
+                "ageRange": "8+"
+              }
+            },
+            {
+              "id": 1404,
+              "imgLink": "https://example.com/images/carcassonne.jpg",
+              "name": "Carcassonne",
+              "category": "Toys & Games",
+              "rating": 4.7,
+              "price": 29.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Expansion packs available"],
+              "productSpecs": {
+                "publisher": "Z-Man Games",
+                "players": "2-5",
+                "playingTime": "35 mins",
+                "ageRange": "7+"
+              }
+            },
+            {
+              "id": 1405,
+              "imgLink": "https://example.com/images/scrabble.jpg",
+              "name": "Scrabble",
+              "category": "Toys & Games",
+              "rating": 4.6,
+              "price": 17.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["Deluxe edition available"],
+              "productSpecs": {
+                "publisher": "Hasbro",
+                "players": "2-4",
+                "playingTime": "90 mins",
+                "ageRange": "8+"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Puzzles",
+          "products": [
+            {
+              "id": 1501,
+              "imgLink": "https://example.com/images/1000-piece-puzzle.jpg",
+              "name": "1000 Piece Jigsaw Puzzle",
+              "category": "Toys & Games",
+              "rating": 4.5,
+              "price": 19.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["10% off on next puzzle"],
+              "productSpecs": {
+                "pieces": 1000,
+                "theme": "Various",
+                "size": "20 x 27 inches"
+              }
+            },
+            {
+              "id": 1502,
+              "imgLink": "https://example.com/images/wooden-puzzle.jpg",
+              "name": "Wooden Brain Teaser Puzzle",
+              "category": "Toys & Games",
+              "rating": 4.6,
+              "price": 15.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free puzzle-solving guide"],
+              "productSpecs": {
+                "material": "Wood",
+                "difficultyLevel": "Advanced",
+                "size": "6 x 6 inches"
+              }
+            },
+            {
+              "id": 1503,
+              "imgLink": "https://example.com/images/3d-puzzle.jpg",
+              "name": "3D Crystal Puzzle",
+              "category": "Toys & Games",
+              "rating": 4.4,
+              "price": 24.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["Buy 2 Get 1 Free"],
+              "productSpecs": {
+                "material": "Crystal",
+                "design": "Various shapes",
+                "difficultyLevel": "Intermediate",
+                "size": "Various sizes"
+              }
+            },
+            {
+              "id": 1504,
+              "imgLink": "https://example.com/images/magnetic-tangram.jpg",
+              "name": "Magnetic Tangram Puzzle",
+              "category": "Toys & Games",
+              "rating": 4.3,
+              "price": 12.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Free carrying case"],
+              "productSpecs": {
+                "material": "Plastic",
+                "pieces": 7,
+                "difficultyLevel": "Beginner",
+                "size": "5 x 5 inches"
+              }
+            },
+            {
+              "id": 1505,
+              "imgLink": "https://example.com/images/educational-puzzle.jpg",
+              "name": "Educational Puzzle Set",
+              "category": "Toys & Games",
+              "rating": 4.5,
+              "price": 18.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["STEM learning puzzles"],
+              "productSpecs": {
+                "ageRange": "3-8 years",
+                "themes": ["Alphabet", "Numbers", "Animals"],
+                "size": "12 x 12 inches"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Home Improvement",
+      "subcategories": [
+        {
+          "name": "Power Tools",
+          "products": [
+            {
+              "id": 1601,
+              "imgLink": "https://example.com/images/cordless-drill.jpg",
+              "name": "Cordless Drill",
+              "category": "Home Improvement",
+              "rating": 4.6,
+              "price": 79.99,
+              "freeDelivery": false,
+              "warranty": "1 Year",
+              "offers": ["Extra battery included"],
+              "productSpecs": {
+                "brand": "Black+Decker",
+                "powerSource": "Battery-powered",
+                "weight": "3.5 lbs",
+                "voltage": "20V"
+              }
+            },
+            {
+              "id": 1602,
+              "imgLink": "https://example.com/images/hammer.jpg",
+              "name": "Claw Hammer",
+              "category": "Home Improvement",
+              "rating": 4.7,
+              "price": 24.99,
+              "freeDelivery": true,
+              "warranty": "Lifetime",
+              "offers": ["Comfort grip handle"],
+              "productSpecs": {
+                "brand": "Stanley",
+                "material": "Steel",
+                "weight": "16 oz",
+                "handleMaterial": "Fiberglass"
+              }
+            },
+            {
+              "id": 1603,
+              "imgLink": "https://example.com/images/toolbox-set.jpg",
+              "name": "Mechanic Tool Set",
+              "category": "Home Improvement",
+              "rating": 4.5,
+              "price": 129.99,
+              "freeDelivery": true,
+              "warranty": "Limited Lifetime",
+              "offers": ["Case included"],
+              "productSpecs": {
+                "brand": "Craftsman",
+                "pieces": 220,
+                "material": "Chrome Vanadium Steel",
+                "caseType": "Hard plastic"
+              }
+            },
+            {
+              "id": 1604,
+              "imgLink": "https://example.com/images/ladder.jpg",
+              "name": "Telescoping Ladder",
+              "category": "Home Improvement",
+              "rating": 4.8,
+              "price": 149.99,
+              "freeDelivery": false,
+              "warranty": "5 Years",
+              "offers": ["Compact design"],
+              "productSpecs": {
+                "brand": "Ohuhu",
+                "material": "Aluminum",
+                "height": "12.5 ft",
+                "weightCapacity": "330 lbs"
+              }
+            },
+            {
+              "id": 1605,
+              "imgLink": "https://example.com/images/paint-roller.jpg",
+              "name": "Paint Roller Kit",
+              "category": "Home Improvement",
+              "rating": 4.4,
+              "price": 19.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Includes brushes and trays"],
+              "productSpecs": {
+                "brand": "Wooster Brush",
+                "kitContents": [
+                  "Roller frames",
+                  "Roller covers",
+                  "Brushes",
+                  "Trays"
+                ],
+                "rollerSize": "9 inches"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Kitchen Fixtures",
+          "products": [
+            {
+              "id": 1701,
+              "imgLink": "https://example.com/images/stand-mixer.jpg",
+              "name": "Stand Mixer",
+              "category": "Home Improvement",
+              "rating": 4.9,
+              "price": 249.99,
+              "freeDelivery": true,
+              "warranty": "5 Years",
+              "offers": ["Multiple color options"],
+              "productSpecs": {
+                "brand": "KitchenAid",
+                "capacity": "5 quarts",
+                "power": "325 watts",
+                "attachments": ["Flat beater", "Dough hook", "Wire whip"]
+              }
+            },
+            {
+              "id": 1702,
+              "imgLink": "https://example.com/images/air-fryer.jpg",
+              "name": "Air Fryer",
+              "category": "Home Improvement",
+              "rating": 4.7,
+              "price": 89.99,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["Recipe book included"],
+              "productSpecs": {
+                "brand": "Ninja",
+                "capacity": "4 quarts",
+                "power": "1500 watts",
+                "functions": ["Air fry", "Roast", "Reheat", "Dehydrate"]
+              }
+            },
+            {
+              "id": 1703,
+              "imgLink": "https://example.com/images/knife-set.jpg",
+              "name": "Knife Block Set",
+              "category": "Home Improvement",
+              "rating": 4.8,
+              "price": 129.99,
+              "freeDelivery": false,
+              "warranty": "Lifetime",
+              "offers": ["Includes sharpening steel"],
+              "productSpecs": {
+                "brand": "Henckels",
+                "pieces": 15,
+                "material": "High-carbon stainless steel",
+                "handleMaterial": "Polypropylene"
+              }
+            },
+            {
+              "id": 1704,
+              "imgLink": "https://example.com/images/espresso-machine.jpg",
+              "name": "Espresso Machine",
+              "category": "Home Improvement",
+              "rating": 4.6,
+              "price": 199.99,
+              "freeDelivery": true,
+              "warranty": "3 Years",
+              "offers": ["Frother included"],
+              "productSpecs": {
+                "brand": "Breville",
+                "capacity": "1.2 liters",
+                "power": "1600 watts",
+                "features": ["15-bar Italian pump", "Steam wand"]
+              }
+            },
+            {
+              "id": 1705,
+              "imgLink": "https://example.com/images/food-processor.jpg",
+              "name": "Food Processor",
+              "category": "Home Improvement",
+              "rating": 4.5,
+              "price": 79.99,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["Multiple attachments"],
+              "productSpecs": {
+                "brand": "Cuisinart",
+                "capacity": "11 cups",
+                "power": "550 watts",
+                "features": ["Stainless steel blades", "Dishwasher-safe parts"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Health & Wellness",
+      "subcategories": [
+        {
+          "name": "Vitamins & Supplements",
+          "products": [
+            {
+              "id": 1801,
+              "imgLink": "https://example.com/images/multivitamin.jpg",
+              "name": "Multivitamin Tablets",
+              "category": "Health & Wellness",
+              "rating": 4.9,
+              "price": 24.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Buy 2 Get 1 Free"],
+              "productSpecs": {
+                "type": "Tablets",
+                "purpose": "General health",
+                "vitamins": [
+                  "Vitamin A",
+                  "Vitamin C",
+                  "Vitamin D",
+                  "Vitamin E",
+                  "Vitamin B complex"
+                ]
+              }
+            },
+            {
+              "id": 1802,
+              "imgLink": "https://example.com/images/protein-powder.jpg",
+              "name": "Whey Protein Powder",
+              "category": "Health & Wellness",
+              "rating": 4.8,
+              "price": 39.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["High protein content"],
+              "productSpecs": {
+                "type": "Powder",
+                "flavor": "Chocolate",
+                "proteinContent": "20g per serving",
+                "servings": "30 servings"
+              }
+            },
+            {
+              "id": 1803,
+              "imgLink": "https://example.com/images/fish-oil.jpg",
+              "name": "Omega-3 Fish Oil Softgels",
+              "category": "Health & Wellness",
+              "rating": 4.7,
+              "price": 14.99,
+              "freeDelivery": false,
+              "warranty": "30 Days",
+              "offers": ["High EPA and DHA"],
+              "productSpecs": {
+                "type": "Softgels",
+                "omegaType": "EPA & DHA",
+                "servings": "60 softgels",
+                "benefits": ["Heart health", "Brain function"]
+              }
+            },
+            {
+              "id": 1804,
+              "imgLink": "https://example.com/images/probiotics.jpg",
+              "name": "Probiotic Capsules",
+              "category": "Health & Wellness",
+              "rating": 4.6,
+              "price": 29.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["10 different strains"],
+              "productSpecs": {
+                "type": "Capsules",
+                "strains": 10,
+                "benefits": ["Digestive health", "Immune support"],
+                "servings": "30 capsules"
+              }
+            },
+            {
+              "id": 1805,
+              "imgLink": "https://example.com/images/sleep-aid.jpg",
+              "name": "Melatonin Sleep Aid Tablets",
+              "category": "Health & Wellness",
+              "rating": 4.5,
+              "price": 9.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Natural sleep support"],
+              "productSpecs": {
+                "type": "Tablets",
+                "dosage": "5mg per tablet",
+                "servings": "120 tablets",
+                "benefits": ["Promotes restful sleep"]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fitness Equipment",
+          "products": [
+            {
+              "id": 1901,
+              "imgLink": "https://example.com/images/yoga-mat.jpg",
+              "name": "Yoga Mat",
+              "category": "Health & Wellness",
+              "rating": 4.7,
+              "price": 29.99,
+              "freeDelivery": true,
+              "warranty": "90 Days",
+              "offers": ["Non-slip surface"],
+              "productSpecs": {
+                "material": "PVC",
+                "size": "72 x 24 inches",
+                "thickness": "6mm"
+              }
+            },
+            {
+              "id": 1902,
+              "imgLink": "https://example.com/images/dumbbell-set.jpg",
+              "name": "Adjustable Dumbbell Set",
+              "category": "Health & Wellness",
+              "rating": 4.8,
+              "price": 149.99,
+              "freeDelivery": false,
+              "warranty": "1 Year",
+              "offers": ["Includes storage tray"],
+              "productSpecs": {
+                "weightRange": "5-25 lbs per dumbbell",
+                "material": "Cast iron plates",
+                "adjustment": "Quick-change dial system"
+              }
+            },
+            {
+              "id": 1903,
+              "imgLink": "https://example.com/images/resistance-bands.jpg",
+              "name": "Resistance Bands Set",
+              "category": "Health & Wellness",
+              "rating": 4.6,
+              "price": 19.99,
+              "freeDelivery": true,
+              "warranty": "60 Days",
+              "offers": ["Includes door anchor"],
+              "productSpecs": {
+                "levels": "5 resistance levels",
+                "material": "Latex",
+                "benefits": ["Strength training", "Physical therapy"]
+              }
+            },
+            {
+              "id": 1904,
+              "imgLink": "https://example.com/images/fitness-tracker.jpg",
+              "name": "Fitness Tracker Watch",
+              "category": "Health & Wellness",
+              "rating": 4.5,
+              "price": 79.99,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["Heart rate monitoring"],
+              "productSpecs": {
+                "features": [
+                  "Step counter",
+                  "Sleep monitor",
+                  "Calorie tracker"
+                ],
+                "waterResistance": "IP67",
+                "batteryLife": "Up to 7 days"
+              }
+            },
+            {
+              "id": 1905,
+              "imgLink": "https://example.com/images/foam-roller.jpg",
+              "name": "Foam Roller",
+              "category": "Health & Wellness",
+              "rating": 4.7,
+              "price": 24.99,
+              "freeDelivery": true,
+              "warranty": "90 Days",
+              "offers": ["High-density foam"],
+              "productSpecs": {
+                "material": "EVA foam",
+                "size": "13 inches",
+                "benefits": ["Myofascial release", "Muscle recovery"]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Automotive",
+      "subcategories": [
+        {
+          "name": "Car Accessories",
+          "products": [
+            {
+              "id": 2001,
+              "imgLink": "https://example.com/images/car-battery-charger.jpg",
+              "name": "Car Battery Charger",
+              "category": "Automotive",
+              "rating": 4.7,
+              "price": 49.99,
+              "freeDelivery": false,
+              "warranty": "1 Year",
+              "offers": ["Maintains charge level"],
+              "productSpecs": {
+                "type": "Automatic",
+                "voltage": "12V",
+                "ampere": "2A",
+                "features": ["Float mode monitoring"]
+              }
+            },
+            {
+              "id": 2002,
+              "imgLink": "https://example.com/images/car-seat-covers.jpg",
+              "name": "Car Seat Covers",
+              "category": "Automotive",
+              "rating": 4.6,
+              "price": 39.99,
+              "freeDelivery": true,
+              "warranty": "90 Days",
+              "offers": ["Universal fit"],
+              "productSpecs": {
+                "material": "Polyester",
+                "fitType": "Universal",
+                "packageIncludes": ["2 front seat covers", "5 headrest covers"]
+              }
+            },
+            {
+              "id": 2003,
+              "imgLink": "https://example.com/images/car-vacuum-cleaner.jpg",
+              "name": "Car Vacuum Cleaner",
+              "category": "Automotive",
+              "rating": 4.5,
+              "price": 29.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["High suction power"],
+              "productSpecs": {
+                "powerSource": "12V DC",
+                "cordLength": "16 feet",
+                "attachments": ["Crevice tool", "Brush tool"]
+              }
+            },
+            {
+              "id": 2004,
+              "imgLink": "https://example.com/images/car-phone-holder.jpg",
+              "name": "Car Phone Holder",
+              "category": "Automotive",
+              "rating": 4.8,
+              "price": 14.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["360-degree rotation"],
+              "productSpecs": {
+                "mountType": "Dashboard/Windshield",
+                "compatibility": "Universal",
+                "features": ["Adjustable arms", "One-touch release"]
+              }
+            },
+            {
+              "id": 2005,
+              "imgLink": "https://example.com/images/car-air-freshener.jpg",
+              "name": "Car Air Freshener",
+              "category": "Automotive",
+              "rating": 4.4,
+              "price": 9.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Long-lasting fragrance"],
+              "productSpecs": {
+                "scent": "Lavender",
+                "type": "Hanging",
+                "duration": "Up to 30 days"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Motorcycle Accessories",
+          "products": [
+            {
+              "id": 2011,
+              "imgLink": "https://example.com/images/motorcycle-helmet.jpg",
+              "name": "Motorcycle Helmet",
+              "category": "Automotive",
+              "rating": 4.9,
+              "price": 149.99,
+              "freeDelivery": true,
+              "warranty": "5 Years",
+              "offers": ["DOT certified"],
+              "productSpecs": {
+                "type": "Full-face",
+                "material": "Polycarbonate shell",
+                "sizes": ["Small", "Medium", "Large"]
+              }
+            },
+            {
+              "id": 2012,
+              "imgLink": "https://example.com/images/motorcycle-gloves.jpg",
+              "name": "Motorcycle Gloves",
+              "category": "Automotive",
+              "rating": 4.7,
+              "price": 29.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Leather construction"],
+              "productSpecs": {
+                "material": "Leather",
+                "features": ["Knuckle protection", "Touchscreen compatible"]
+              }
+            },
+            {
+              "id": 2013,
+              "imgLink": "https://example.com/images/motorcycle-cover.jpg",
+              "name": "Motorcycle Cover",
+              "category": "Automotive",
+              "rating": 4.6,
+              "price": 34.99,
+              "freeDelivery": false,
+              "warranty": "90 Days",
+              "offers": ["Waterproof"],
+              "productSpecs": {
+                "material": "Polyester",
+                "size": "Medium",
+                "features": ["Elastic hem", "Storage bag included"]
+              }
+            },
+            {
+              "id": 2014,
+              "imgLink": "https://example.com/images/motorcycle-lock.jpg",
+              "name": "Motorcycle Disc Lock",
+              "category": "Automotive",
+              "rating": 4.5,
+              "price": 19.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Alarm system"],
+              "productSpecs": {
+                "type": "Disc lock",
+                "material": "Steel",
+                "alarmSound": "110 dB",
+                "batteryLife": "1 year"
+              }
+            },
+            {
+              "id": 2015,
+              "imgLink": "https://example.com/images/motorcycle-bluetooth-intercom.jpg",
+              "name": "Motorcycle Bluetooth Intercom",
+              "category": "Automotive",
+              "rating": 4.8,
+              "price": 79.99,
+              "freeDelivery": true,
+              "warranty": "2 Years",
+              "offers": ["Communication range up to 1000m"],
+              "productSpecs": {
+                "features": ["Bluetooth 4.1", "Noise cancellation", "FM radio"],
+                "batteryLife": "Up to 20 hours",
+                "waterResistance": "IPX6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Office Supplies",
+      "subcategories": [
+        {
+          "name": "Stationery",
+          "products": [
+            {
+              "id": 2101,
+              "imgLink": "https://example.com/images/pens.jpg",
+              "name": "Ballpoint Pens (Pack of 10)",
+              "category": "Office Supplies",
+              "rating": 4.6,
+              "price": 7.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": [],
+              "productSpecs": {
+                "type": "Ballpoint",
+                "inkColor": "Black",
+                "tipSize": "0.7mm",
+                "packageIncludes": "10 pens"
+              }
+            },
+            {
+              "id": 2102,
+              "imgLink": "https://example.com/images/notepads.jpg",
+              "name": "Notepads (Pack of 5)",
+              "category": "Office Supplies",
+              "rating": 4.5,
+              "price": 12.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": [],
+              "productSpecs": {
+                "size": "A5",
+                "pages": "50 sheets each",
+                "paperType": "Lined"
+              }
+            },
+            {
+              "id": 2103,
+              "imgLink": "https://example.com/images/stapler.jpg",
+              "name": "Stapler",
+              "category": "Office Supplies",
+              "rating": 4.7,
+              "price": 9.99,
+              "freeDelivery": false,
+              "warranty": "1 Year",
+              "offers": [],
+              "productSpecs": {
+                "type": "Desktop",
+                "capacity": "20 sheets",
+                "stapleSize": "Standard (26/6)"
+              }
+            },
+            {
+              "id": 2104,
+              "imgLink": "https://example.com/images/binder-clips.jpg",
+              "name": "Binder Clips (Assorted Sizes, Pack of 24)",
+              "category": "Office Supplies",
+              "rating": 4.8,
+              "price": 6.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": [],
+              "productSpecs": {
+                "sizes": ["Small", "Medium", "Large"],
+                "material": "Metal",
+                "packageIncludes": "24 clips"
+              }
+            },
+            {
+              "id": 2105,
+              "imgLink": "https://example.com/images/file-folders.jpg",
+              "name": "File Folders (Pack of 12)",
+              "category": "Office Supplies",
+              "rating": 4.6,
+              "price": 14.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": [],
+              "productSpecs": {
+                "color": "Assorted",
+                "size": "Letter",
+                "material": "Cardstock"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Electronics",
+          "products": [
+            {
+              "id": 2111,
+              "imgLink": "https://example.com/images/wireless-keyboard.jpg",
+              "name": "Wireless Keyboard",
+              "category": "Office Supplies",
+              "rating": 4.5,
+              "price": 29.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Bluetooth connectivity"],
+              "productSpecs": {
+                "compatibility": "Windows, Mac, Android",
+                "batteryLife": "Up to 12 months",
+                "features": ["Compact size", "Quiet keys"]
+              }
+            },
+            {
+              "id": 2112,
+              "imgLink": "https://example.com/images/monitor-stand.jpg",
+              "name": "Monitor Stand Riser",
+              "category": "Office Supplies",
+              "rating": 4.7,
+              "price": 19.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Ergonomic design"],
+              "productSpecs": {
+                "size": "Adjustable",
+                "material": "Plastic",
+                "features": ["Storage drawer"]
+              }
+            },
+            {
+              "id": 2113,
+              "imgLink": "https://example.com/images/calculator.jpg",
+              "name": "Scientific Calculator",
+              "category": "Office Supplies",
+              "rating": 4.6,
+              "price": 14.99,
+              "freeDelivery": false,
+              "warranty": "90 Days",
+              "offers": [],
+              "productSpecs": {
+                "type": "Scientific",
+                "functions": [
+                  "Trigonometric functions",
+                  "Statistical functions"
+                ],
+                "powerSource": "Battery"
+              }
+            },
+            {
+              "id": 2114,
+              "imgLink": "https://example.com/images/usb-flash-drive.jpg",
+              "name": "USB Flash Drive (64GB)",
+              "category": "Office Supplies",
+              "rating": 4.8,
+              "price": 12.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": [],
+              "productSpecs": {
+                "capacity": "64GB",
+                "interface": "USB 3.0",
+                "compatibility": "Windows, Mac, Linux"
+              }
+            },
+            {
+              "id": 2115,
+              "imgLink": "https://example.com/images/wireless-mouse.jpg",
+              "name": "Wireless Mouse",
+              "category": "Office Supplies",
+              "rating": 4.7,
+              "price": 17.99,
+              "freeDelivery": true,
+              "warranty": "1 Year",
+              "offers": ["Nano receiver included"],
+              "productSpecs": {
+                "connection": "Wireless (2.4GHz)",
+                "batteryLife": "Up to 12 months",
+                "compatibility": "Windows, Mac, Linux"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Pet Supplies",
+      "subcategories": [
+        {
+          "name": "Dog Supplies",
+          "products": [
+            {
+              "id": 2201,
+              "imgLink": "https://example.com/images/dog-food.jpg",
+              "name": "Premium Dog Food (5 lbs)",
+              "category": "Pet Supplies",
+              "rating": 4.9,
+              "price": 19.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Grain-free", "Real chicken as first ingredient"],
+              "productSpecs": {
+                "foodType": "Dry",
+                "flavor": "Chicken",
+                "size": "5 lbs"
+              }
+            },
+            {
+              "id": 2202,
+              "imgLink": "https://example.com/images/dog-collar.jpg",
+              "name": "Adjustable Dog Collar",
+              "category": "Pet Supplies",
+              "rating": 4.7,
+              "price": 12.99,
+              "freeDelivery": true,
+              "warranty": "30 Days",
+              "offers": ["Reflective stitching", "Durable nylon"],
+              "productSpecs": {
+                "size": "Medium",
+                "material": "Nylon",
+                "features": [
+                  "Quick release buckle",
+                  "D-ring for leash attachment"
+                ]
+              }
+            },
+            {
+              "id": 2203,
+              "imgLink": "https://example.com/images/dog-toy.jpg",
+              "name": "Chew Toy for Dogs",
+              "category": "Pet Supplies",
+              "rating": 4.5,
+              "price": 9.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Natural rubber", "Interactive design"],
+              "productSpecs": {
+                "size": "Large",
+                "material": "Rubber",
+                "features": ["Durable", "Bounces unpredictably"]
+              }
+            },
+            {
+              "id": 2204,
+              "imgLink": "https://example.com/images/dog-bed.jpg",
+              "name": "Orthopedic Dog Bed",
+              "category": "Pet Supplies",
+              "rating": 4.8,
+              "price": 39.99,
+              "freeDelivery": false,
+              "warranty": "1 Year",
+              "offers": ["Memory foam", "Machine washable cover"],
+              "productSpecs": {
+                "size": "Large",
+                "material": "Memory foam",
+                "dimensions": "36\" x 24\" x 3\""
+              }
+            },
+            {
+              "id": 2205,
+              "imgLink": "https://example.com/images/dog-shampoo.jpg",
+              "name": "Hypoallergenic Dog Shampoo",
+              "category": "Pet Supplies",
+              "rating": 4.6,
+              "price": 14.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Gentle formula", "Soothing oatmeal"],
+              "productSpecs": {
+                "size": "16 oz",
+                "type": "Hypoallergenic",
+                "scent": "Oatmeal"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Cat Supplies",
+          "products": [
+            {
+              "id": 2211,
+              "imgLink": "https://example.com/images/cat-food.jpg",
+              "name": "Indoor Cat Food (3 lbs)",
+              "category": "Pet Supplies",
+              "rating": 4.7,
+              "price": 17.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": [
+                "Formulated for indoor cats",
+                "Real chicken as first ingredient"
+              ],
+              "productSpecs": {
+                "foodType": "Dry",
+                "flavor": "Chicken",
+                "size": "3 lbs"
+              }
+            },
+            {
+              "id": 2212,
+              "imgLink": "https://example.com/images/cat-litter.jpg",
+              "name": "Clumping Cat Litter (10 lbs)",
+              "category": "Pet Supplies",
+              "rating": 4.6,
+              "price": 9.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Clumping action", "99% dust-free"],
+              "productSpecs": {
+                "type": "Clumping",
+                "size": "10 lbs",
+                "features": ["Odor control", "Easy scoop formula"]
+              }
+            },
+            {
+              "id": 2213,
+              "imgLink": "https://example.com/images/cat-toy.jpg",
+              "name": "Feather Teaser Cat Toy",
+              "category": "Pet Supplies",
+              "rating": 4.5,
+              "price": 6.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Interactive play", "Natural feathers"],
+              "productSpecs": {
+                "material": "Feathers, plastic",
+                "features": ["Dangling feathers", "Flexible wand"]
+              }
+            },
+            {
+              "id": 2214,
+              "imgLink": "https://example.com/images/cat-scratcher.jpg",
+              "name": "Cat Scratcher Lounge",
+              "category": "Pet Supplies",
+              "rating": 4.8,
+              "price": 24.99,
+              "freeDelivery": false,
+              "warranty": "6 Months",
+              "offers": ["Reversible design", "Durable cardboard"],
+              "productSpecs": {
+                "size": "Large",
+                "material": "Cardboard",
+                "dimensions": "18\" x 10\" x 5\""
+              }
+            },
+            {
+              "id": 2215,
+              "imgLink": "https://example.com/images/cat-treats.jpg",
+              "name": "Natural Cat Treats",
+              "category": "Pet Supplies",
+              "rating": 4.7,
+              "price": 8.99,
+              "freeDelivery": true,
+              "warranty": "None",
+              "offers": ["Real chicken", "No artificial flavors"],
+              "productSpecs": {
+                "flavor": "Chicken",
+                "type": "Soft treats",
+                "size": "8 oz"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
