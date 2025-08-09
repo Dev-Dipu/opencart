@@ -6,6 +6,11 @@ export const ProductContext = createContext();
 
 function Context(props) {
   const [product, setproduct] = useState([]);
+  const [cart, setCart] = useState([])
+
+  const addToCart = (p) => {
+    setCart(prev => [...prev, p])
+  }
   
   useEffect(()=>{
     const getProducts = async() =>{
@@ -21,7 +26,7 @@ function Context(props) {
     getProducts();
   }, []);
 
-  return <ProductContext.Provider value={{product, setproduct}}>{props.children}</ProductContext.Provider>
+  return <ProductContext.Provider value={{product, setproduct, cart, setCart, addToCart}}>{props.children}</ProductContext.Provider>
 }
 
 export default Context
